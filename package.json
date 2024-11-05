@@ -1,0 +1,12 @@
+{
+    "name": "Mandar parciais",
+    "version": "1.0.0",
+    "description": "Projeto com tkinter e outros módulos",
+    "scripts": {
+      "start": "python main.py"
+    },
+    "dependencies": {
+      "customtkinter": "5.0.0" 
+    }
+  }
+  
